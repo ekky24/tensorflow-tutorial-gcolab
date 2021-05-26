@@ -1,0 +1,2 @@
+This repository holds Google Colaboratory file for Tensorflow Tutorial with Python. The Tensorflow tutorial link can be found in the following link:
+https://www.youtube.com/watch?v=tPYj3fFJGjk&ab_channel=freeCodeCamp.org
